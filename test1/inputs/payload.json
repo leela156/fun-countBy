@@ -1,0 +1,16 @@
+[
+   {
+      "name":"Max",
+      "email":"abc@.xyzcom",
+      "phone":"91 0808907890",
+      "company":"MuleSoft",
+      "allowance":2000
+   },
+   {
+      "name":"Mule",
+      "email":"abc@xyz.com",
+      "phone":"91 0808907890",
+      "company":"MuleSoft",
+      "allowance":4000
+   }
+]
